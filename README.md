@@ -4,6 +4,6 @@ ka 作成の Git リポジトリ
 
 ## License
 
-GNU Freed Documentation License
+GNU Free Documentation License
 
 Copyright &copy; 2014 ka
